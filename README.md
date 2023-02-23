@@ -1,2 +1,2 @@
 # -lkparagrafkodluyoruzrepo
-Kodluyoruz/Patika ile ilk paragraf
+Kodluyoruz/Patika ile ilk paragrafımı oluşturdum
